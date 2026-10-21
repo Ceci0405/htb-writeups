@@ -4,4 +4,4 @@ Write-ups de máquinas retiradas de Hack The Box (lista TJ Null, preparación OS
 
 | Máquina | SO | Dificultad | Técnica principal |
 |---------|-----|-----------|-------------------|
-| [Lame](./Lame/Lame.md) | Linux | Easy | Samba usermap (CVE-2007-2447) |
+| [Lame](./Lame.md) | Linux | Easy | Samba usermap (CVE-2007-2447) |
