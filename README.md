@@ -8,3 +8,4 @@ Write-ups de máquinas retiradas de Hack The Box (lista TJ Null, preparación OS
 | [Bashed](./Bashed.md) | Linux | Easy | phpbash + cron escribible |
 | [Shocker](./Shocker.md) | Linux | Easy | Shellshock + sudo perl (GTFOBins) |
 | [Knife](./Knife.md) | Linux | Easy | PHP 8.1.0-dev backdoor + sudo knife |
+| [Blocky](./Blocky.md) | Linux | Easy | Credenciales en .jar + reutilización SSH |
